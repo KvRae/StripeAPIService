@@ -1,0 +1,14 @@
+{
+  "name": "stripe-payment-service",
+  "version": "1.0.0",
+  "description": "stripe api service for backappx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karam Mannai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
